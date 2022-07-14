@@ -1,0 +1,4 @@
+{
+  "tipi-deps/libpng" : { "@" : "v1.6.37p1-tipi" }
+  ,"platform" : ["target::m"]
+}
